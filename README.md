@@ -7,7 +7,7 @@ probability, and statistics.
 
 ## Dependencies
 The notebooks in this package depend on several well-known Python
-modules, all well-engineerd and free!
+modules, all well-engineered and free!
 
 | __modules__   | __description__     |
 | :---          | :---        |
